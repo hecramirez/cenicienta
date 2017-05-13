@@ -1,0 +1,6 @@
+comandos git
+preguntar versión= git --version
+decir quienes somos= 	git config --global user.name "Hector Ramirez"
+			git config --global user.mail "hedcand@hotmail.com"
+como crear un repositorio=	git init :
+como clonar= git clone https://github.com/MariaClaraNextU/Cenicienta
